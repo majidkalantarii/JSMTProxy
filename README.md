@@ -1,9 +1,9 @@
 # JSMTProxy
-[![Telegram Channel](https://img.shields.io/badge/Channel-Telegram-blue.svg)](https://t.me/JSMTProxy)
+[![Telegram Channel](https://img.shields.io/badge/Channel-Telegram-blue.svg)](https://t.me/sagheb)
 
 High Performance NodeJS MTProto Proxy
 
-### Latest Active MTProto Proxies: https://t.me/MTProxy
+### Latest Active MTProto Proxies: https://t.me/sagheb
 
 ## Linux Installation
 
@@ -29,7 +29,7 @@ https://nodejs.org/en/download/
 
 Clone repository on your server:
 ```
-$> git clone https://github.com/FreedomPrevails/JSMTProxy.git
+$> git clone https://github.com/majidkalantarii/JSMTProxy.git
 ```
 Enter JSMTProxy directory and edit config file (config.json) if you wish. You can change the secret and listening port. it is in json format.
 
@@ -55,7 +55,7 @@ After installation is complete, enter "Command Prompt" and install PM2 by follow
 ```
 C:\> npm install pm2 -g
 ```
-Download JSMTProxy using this link: https://github.com/FreedomPrevails/JSMTProxy/archive/master.zip
+Download JSMTProxy using this link: https://github.com/majidkalantarii/JSMTProxy/archive/master.zip
 
 Extract the zip file into a new folder. Edit config.json (as explained above) if you wish to change port number or secret.
 
@@ -71,7 +71,7 @@ C:\> pm2 start mtproxy.js -i max
 
 MIT License
 
-Copyright (c) 2018 JSMTProxy
+Copyright (c) 2018 majidkalantarii
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
